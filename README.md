@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubaermahmudratul&label=Profile%20views&color=0e75b6&style=flat" alt="jubaermahmudratul" /> </p>
 
-- 🌱 I’m currently learning **paython**
-
-- 💬 Ask me about **js**
 
 - 📫 How to reach me **jubaermahmud111@gmail.com**
 
